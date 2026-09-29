@@ -1,1 +1,1 @@
-# 3C-repository
+This is the repository for 3C
